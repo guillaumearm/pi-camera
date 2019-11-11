@@ -3,6 +3,7 @@
   "version": "1.4.0",
   "description": "A very lightweight promise based Node.js wrapper for the native Raspberry Pi Camera CLI tools.",
   "main": "index.js",
+  "types": "index.d.ts",
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
